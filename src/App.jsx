@@ -122,9 +122,9 @@ export default function App() {
             <div className="relative">
               <div className="aspect-[4/3] w-full overflow-hidden rounded-3xl shadow-2xl ring-1 ring-white/10">
                 <img
-                  src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=1600&auto=format&fit=crop"
-                  alt="Buggy na leśnym szutrze"
-                  className="h-full w-full object-cover"
+                  src="/hero-buggy.png"  
+  alt="Buggy na kaszubskich szutrach"
+  className="h-full w-full object-cover"
                 />
               </div>
               <div className="pointer-events-none absolute -bottom-6 -left-6 hidden rotate-2 rounded-2xl bg-white/90 p-4 text-sm shadow-xl ring-1 ring-slate-200 md:block">
