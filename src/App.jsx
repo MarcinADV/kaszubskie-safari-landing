@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from "react";
 
-// 👇 PODMIEŃ NA DOKŁADNĄ NAZWĘ TWOJEGO PLIKU W FOLDERZE src/
-// Skopiuj ją z listy plików po lewej (musi się zgadzać wielkość liter).
-import buggy from "./Gemini_Generated_Image_ps2e3fps2e3fps2e.png";
+
+Gemini_Generated_Image_ps2e3fps2e3fps2e.png;
 
 function useLeads() {
   const [leads, setLeads] = useState([]);
